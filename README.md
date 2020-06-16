@@ -1,7 +1,7 @@
 About py4xs
 ===========
 
-Home: https://github.com/NSLS-II-LIX/py4xs
+Home: https://pypi.org/project/py4xs
 
 Package license: MIT
 
