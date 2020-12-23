@@ -5,11 +5,11 @@ Home: https://pypi.org/project/py4xs
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/py4xs-feedstock/blob/master/LICENSE.txt)
 
 Summary: py4xs - a python package for processing x-ray scattering data
 
-
+Development: https://github.com/NSLS-II-LIX/py4xs
 
 Current build status
 ====================
