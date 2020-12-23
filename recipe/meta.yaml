@@ -1,6 +1,6 @@
 {% set name = "py4xs" %}
-{% set version = "2020.5.15.0" %}
-{% set sha256 = "ce4f72cd7be32fc36dd152ea95f438e268ac8452830f482719e313d2c1e79d24" %}
+{% set version = "2020.12.11.2" %}
+{% set sha256 = "ad889a1ac6892f966ac582658e20c0c91c1af362470f59a3d84655e9305676c8" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 build:
   noarch: python
   number: 0
-  script: "{{ PYTHON }} -m pip install . --no-deps -vv"
+  script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
   host:
