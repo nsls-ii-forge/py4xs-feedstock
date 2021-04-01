@@ -1,6 +1,6 @@
 {% set name = "py4xs" %}
-{% set version = "2021.2.1.0" %}
-{% set sha256 = "a64606ff8b607d8d97854262e3ced54095ffbcf5dba82b0d57bc55297c64a490" %}
+{% set version = "2021.2.22.0" %}
+{% set sha256 = "d39af4354d4c29737594cad03adfcbca2afeb6cfe6205f47c8b0f3e94e8e6bb2" %}
 
 package:
   name: {{ name|lower }}
