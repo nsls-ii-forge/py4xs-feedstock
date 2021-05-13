@@ -38,6 +38,7 @@ Installing `py4xs` from the `nsls2forge` channel can be achieved by adding `nsls
 
 ```
 conda config --add channels nsls2forge
+conda config --set channel_priority strict
 ```
 
 Once the `nsls2forge` channel has been enabled, `py4xs` can be installed with:
